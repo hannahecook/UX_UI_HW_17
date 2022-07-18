@@ -22,12 +22,9 @@
   .heroImg {
     height: 600px;
    padding: 25px;
+   text-align: center;
   }
   
-  #heroImg {
-    height: 600px;
-   padding: 25px;
-  }
   
   .content {
     width: 500px;
